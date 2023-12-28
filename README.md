@@ -1,4 +1,4 @@
-# The Movie Database App
+# The Movie Database App 📽
 
 The Movie Database App is a Flutter-based mobile application that allows users to explore and track movies.
 The app provides features such as viewing movies by different categories, adding movies to favorites, and accessing detailed information about each movie.
